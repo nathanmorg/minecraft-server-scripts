@@ -1,1 +1,2 @@
 0 4 * * * docker stop minecraft_minecraft_1
+#stops the docker container every 24 hours at 4 am, automatically restarts
